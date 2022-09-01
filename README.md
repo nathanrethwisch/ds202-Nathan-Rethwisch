@@ -1,3 +1,3 @@
-# ode to an academic advisor
+# ds202-Nathan-Rethwisch
 
-I am typing something
+Learning about gitHub
