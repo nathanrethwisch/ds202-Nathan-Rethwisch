@@ -1,2 +1,1 @@
-# ds202-Nathan-Rethwisch
-A repository
+# ode to an academic advisor
